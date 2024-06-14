@@ -4,7 +4,7 @@ public class Consulta {
 
     private String nomePaciente;
     private Long matricula;
-    private Long  numeroDependente;
+    protected Long  numeroDependente;
     protected Integer anoInclusaoPlano;
     protected Double valorConsulta;
 
